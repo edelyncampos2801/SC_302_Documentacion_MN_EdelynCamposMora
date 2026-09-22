@@ -1,2 +1,8 @@
-# SC_302_Documentacion_MN_EdelynCamposMora
+# SC\_302\_Documentacion\_MN\_EdelynCamposMora
+
 Curso Documentación de Software Tercer Cuatri 2026
+
+
+
+Esta es mi primera práctica con GitHub.
+
