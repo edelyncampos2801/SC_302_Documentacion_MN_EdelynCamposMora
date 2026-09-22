@@ -6,3 +6,5 @@ Curso Documentación de Software Tercer Cuatri 2026
 
 Esta es mi primera práctica con GitHub.
 
+Estoy trabajando en una rama nueva.
+
